@@ -1,0 +1,8 @@
+Cloud Firestore
+    Notas:
+        - 
+    
+    Docs:
+        - https://firebase.google.com/docs/firestore?hl=es-419
+        - https://firebase.google.com/docs/firestore/quickstart?hl=es-419
+        - https://firebase.google.com/docs/admin/setup?hl=es-419#:~:text=Crea%20un%20proyecto%20de%20Firebase,ingresa%20el%20nombre%20que%20quieras.
